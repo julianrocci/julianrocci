@@ -34,7 +34,7 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 * dbt-style modeling
 * Terraform
 
-👉 **Repository:** : [<link>](https://github.com/julianrocci/Snowflake-Cost-Governance)
+👉 **Repository:** [<Snowflake>](https://github.com/julianrocci/Snowflake-Cost-Governance)❄️
 
 ---
 
