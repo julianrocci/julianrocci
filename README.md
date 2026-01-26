@@ -31,7 +31,7 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 
 * Snowflake (ACCOUNT_USAGE, ORGANIZATION_USAGE)
 * SQL (analytical & cost-focused)
-* dbt-style modeling (optional)
+* dbt-style modeling
 * Terraform
 
 👉 **Repository:** <link>
@@ -66,8 +66,6 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 
 ## 🤝 Let's connect
 
-* 💼 Open to data / analytics / cloud roles
+* 💼 Open to data engineering / analytics / cloud roles
 * 🌍 Interested in international opportunities
-* 📫 Contact: [<LinkedIn](https://www.linkedin.com/in/julianrocci/) / rocci.julian@gmail.com
-
----
+* 📫 Contact: [LinkedIn](https://www.linkedin.com/in/julianrocci/) / rocci.julian@gmail.com
