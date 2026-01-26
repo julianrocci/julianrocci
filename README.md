@@ -34,7 +34,7 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 * dbt-style modeling
 * Terraform
 
-👉 **Repository:** [<Snowflake>](https://github.com/julianrocci/Snowflake-Cost-Governance)❄️
+👉 **Repository:** [Link](https://github.com/julianrocci/Snowflake-Cost-Governance)
 
 ---
 
@@ -54,13 +54,16 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 * Snowflake
 * SQL (advanced analytics)
 * dbt
-* terraform
+* Terraform
 
-**Engineering**
+**Snowflake Skills**
 
-* JavaScript
-* Data modeling
-* Analytics engineering
+* Designing and implementing ELT pipelines using Snowflake (Snowpipe, Streams + Tasks)
+* Working with semi-structured data (JSON, VARIANT)
+* Implementing incremental and idempotent data processing patterns
+* Applying Snowflake core features such as Time Travel and zero-copy cloning
+* Designing secure data access using RBAC, masking policies, row access policies, and secure views
+* Optimizing queries using partition pruning and warehouse sizing
 
 ---
 
