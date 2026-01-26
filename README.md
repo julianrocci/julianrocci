@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Julian
 
-<!--
-**julianrocci/julianrocci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ❄️ Data Engineer – Snowflake
 
-Here are some ideas to get you started:
+I'm a **Data Engineer specialized in Snowflake**, working at the intersection of **data platforms, analytics, and business impact**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help organizations:
+
+* Turn Snowflake usage data into **actionable insights**
+* Design **scalable, well-governed data platforms**
+* Improve **cost efficiency, performance, and transparency** without slowing teams down
+
+My work focuses on building **practical, production-ready solutions** aligned with real business needs.
+
+---
+
+## 🚀 Featured Project
+
+### ❄️ Snowflake Cost Governance Portfolio
+
+**Goal:** Provide an end-to-end framework to monitor, analyze, and optimize Snowflake costs.
+
+**Key features:**
+
+* 📊 Credit consumption analysis (warehouse, user, role, query)
+* ⏱️ Warehouse sizing & auto-suspend optimization
+* 🚨 Cost anomaly detection
+* 🧾 Governance-ready views & metrics
+
+**Tech stack:**
+
+* Snowflake (ACCOUNT_USAGE, ORGANIZATION_USAGE)
+* SQL (analytical & cost-focused)
+* dbt-style modeling (optional)
+* Terraform
+
+👉 **Repository:** <link>
+
+---
+
+## 🧠 What I'm focusing on right now
+
+* Snowflake ACCOUNT_USAGE deep dives
+* Cost governance best practices
+* Query efficiency & warehouse tuning
+* Data observability mindset applied to cost
+
+---
+
+## 🧰 Tech & Skills
+
+**Data & Cloud**
+
+* Snowflake
+* SQL (advanced analytics)
+* dbt
+* terraform
+
+**Engineering**
+
+* JavaScript
+* Data modeling
+* Analytics engineering
+
+---
+
+## 🤝 Let's connect
+
+* 💼 Open to data / analytics / cloud roles
+* 🌍 Interested in international opportunities
+* 📫 Contact: [<LinkedIn](https://www.linkedin.com/in/julianrocci/) / rocci.julian@gmail.com
+
+---
