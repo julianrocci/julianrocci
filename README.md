@@ -66,15 +66,6 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 * Applying Snowflake core features such as Time Travel and zero-copy cloning
 * Designing secure data access using RBAC, masking policies, row access policies, and secure views
 * Optimizing queries using partition pruning and warehouse sizing
-
----
-
-## 🤝 Let's connect
-
-* 💼 Open to data engineering / analytics / cloud roles
-* 🌍 Interested in international opportunities
-* 📫 Contact: [LinkedIn](https://www.linkedin.com/in/julianrocci/) / rocci.julian@gmail.com
-
 ```text
    //////                                \\\\\\
   | o o|                                 | o o|
@@ -91,4 +82,13 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 ====||| ===||=\=/=\=/\=/||============||============||=|  | D | A | T | A |  \
     |__>                                               \_____________________/
 ```
+---
+
+## 🤝 Let's connect
+
+* 💼 Open to data engineering / analytics / cloud roles
+* 🌍 Interested in international opportunities
+* 📫 Contact: [LinkedIn](https://www.linkedin.com/in/julianrocci/) / rocci.julian@gmail.com
+
+
 
