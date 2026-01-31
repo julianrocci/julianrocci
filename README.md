@@ -1,4 +1,4 @@
-<img width="714" height="230" alt="picture_etl-color_inverted" src="https://github.com/user-attachments/assets/f696cef7-78a3-437c-93de-83857d139966" />
+<img width="714" height="230" alt="image" src="https://github.com/user-attachments/assets/80e6a3cf-520a-4e1c-9330-4954a4d2fec2" />
 
 # 👋 Hi, I'm Julian
 
@@ -89,6 +89,3 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 * 💼 Open to data engineering / analytics / cloud roles
 * 🌍 Interested in international opportunities
 * 📫 Contact: [LinkedIn](https://www.linkedin.com/in/julianrocci/) / rocci.julian@gmail.com
-
-
-
