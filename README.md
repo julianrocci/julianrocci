@@ -1,4 +1,4 @@
-<img width="714" height="230" alt="image" src="https://github.com/julianrocci/julianrocci/blob/main/Picture_ETL.png" />
+<img width="714" height="230" alt="picture_etl-color_inverted" src="https://github.com/user-attachments/assets/f696cef7-78a3-437c-93de-83857d139966" />
 
 # 👋 Hi, I'm Julian
 
