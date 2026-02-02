@@ -17,8 +17,8 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 ---
 
 ## 🚀 Highlight Project
-
 ### ❄️ Snowflake Cost Governance
+<img width="500" height="300" alt="snowflake-dashboard" src="https://github.com/user-attachments/assets/2fb5effb-a30e-4ea4-af2e-7076f777e60e" />
 
 **Goal:** Provide an end-to-end framework to monitor, analyze, and optimize Snowflake costs.
 
