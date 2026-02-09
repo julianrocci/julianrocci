@@ -66,22 +66,7 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 * Applying Snowflake core features such as Time Travel and zero-copy cloning
 * Designing secure data access using RBAC, masking policies, row access policies, and secure views
 * Optimizing queries using partition pruning and warehouse sizing
-```text
-   //////                                \\\\\\
-  | o o|                                 | o o|
-  ( c  )                                 (  c ) 
-   \= / |||        _              ( )|||| \ =/ 
-  ||||||  |||     | |            _|_|_   |||||| 
-  ||||||    ( )===| |           (\\\\\)  ||||||                     
-  ||||||          |_|          (/////)   ||||||  
-  ||||||         \   /        (\\\\\)    ||||||         _____________________
-====||| ===||=/=\=\-/=\=||============||============||=/  | ❄ | T | O | ❄ |  \
-    |||    ||@9 ⚙️⚙️⚙️ $0|| 🧹🧹🧹🧹🧹🧹 ||  🗂️  🗂️  🗂️ || \__|___|___|___|___|__/
-1@B5||| A9#||  A!7D0?3 <-->3$H@6+K)4F<-->name:email:|| /U | S | A | B | L | E\
-    |||    ||&2 ⚙️⚙️⚙️ E%|| 🧹🧹🧹🧹🧹🧹 ||  🗂️  🗂️  🗂️ || \__|___|___|___|___|__/
-====||| ===||=\=/=\=/\=/||============||============||=|  | D | A | T | A |  \
-    |__>                                               \_____________________/
-```
+
 ---
 
 ## 🤝 Let's connect
