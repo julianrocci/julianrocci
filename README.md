@@ -56,7 +56,6 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 * Snowflake
 * SQL (advanced analytics)
 * dbt
-* Terraform
 
 **Snowflake Skills**
 
