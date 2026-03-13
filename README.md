@@ -34,7 +34,6 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 * Snowflake (ACCOUNT_USAGE, ORGANIZATION_USAGE)
 * SQL (analytical & cost-focused)
 * dbt-style modeling
-* Terraform
 
 👉 **Repository:** [Link](https://github.com/julianrocci/Snowflake-Cost-Governance)
 
