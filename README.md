@@ -10,9 +10,9 @@ I help organizations:
 
 * Turn Snowflake usage data into **actionable insights**
 * Design **scalable, well-governed data platforms**
-* Improve **cost efficiency, performance, and transparency** without slowing teams down
+* Improve **cost efficiency, performance, and transparency**
 
-My work focuses on building **practical, production-ready solutions** aligned with real business needs.
+My work focuses on **Data Governance**, **Cost Optimization** and **Performance Tuning** to deliver scalable and cost-efficient data architectures.
 
 ---
 
@@ -24,10 +24,12 @@ My work focuses on building **practical, production-ready solutions** aligned wi
 
 **Key features:**
 
-* 📊 Credit consumption analysis (warehouse, user, role, query)
-* ⏱️ Warehouse sizing & auto-suspend optimization
-* 🚨 Cost anomaly detection
-* 🧾 Governance-ready views & metrics
+* Building a comprehensive governance-cost monitoring framework using Snowflake and dbt.
+* Credit consumption analysis (warehouse, user, role, query)
+* Warehouse sizing & auto-suspend optimization
+* Cost anomaly detection
+* Governance-ready views & metrics
+* Account_usage and Query Profile analysis for cost-efficient architectures.
 
 **Tech stack:**
 
