@@ -12,32 +12,34 @@ I help organizations:
 * Design **scalable, well-governed data platforms**
 * Improve **cost efficiency, performance, and transparency**
 
-My work focuses on **Data Governance**, **Cost Optimization** and **Performance Tuning** to deliver scalable and cost-efficient data architectures.
+My work focuses on **Data Quality**, **Cost Optimization** and **Performance Tuning** to deliver scalable and cost-efficient data architectures.
 
 ---
 
 ## 🚀 Highlight Project
-### ❄️ Snowflake Cost Governance
+### ❄️ Snowflake Governance-Hub
 <img width="500" height="300" alt="snowflake-dashboard" src="https://github.com/user-attachments/assets/2fb5effb-a30e-4ea4-af2e-7076f777e60e" />
 
 **Goal:** Providing an end-to-end framework to monitor, analyze, and optimize Snowflake costs.
 
 **Key features:**
 
-* Building a comprehensive governance-cost monitoring framework using Snowflake and dbt.
+* Building a comprehensive data-governance monitoring framework using Snowflake and dbt.
 * Credit consumption analysis (warehouse, user, role, query)
 * Warehouse sizing & auto-suspend optimization
-* Cost anomaly detection
+* Cost anomaly detection & automated data quality checks
 * Governance-ready views & metrics
 * Account_usage and Query Profile analysis for cost-efficient architectures.
+* Streamlit application for centralized user management (RBAC) and security auditing
 
 **Tech stack:**
 
 * Snowflake (ACCOUNT_USAGE, ORGANIZATION_USAGE)
 * SQL (analytical & cost-focused)
 * dbt-style modeling
+* DCM
 
-👉 **Repository:** [Link](https://github.com/julianrocci/Snowflake-Cost-Governance)
+👉 **Repository:** [Link](https://github.com/julianrocci/snowflake-governance-hub)
 
 ---
 
