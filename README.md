@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Julian
 
-## ❄️ Data Engineer – Snowflake
+## ❄️ Analytics Engineer – Snowflake & dbt
 
-I'm a **Data Engineer specialized in Snowflake**, working at the intersection of **data platforms, analytics, and business impact**.
+I'm a **Analytics Engineer specialized in Snowflake & dbt**, working at the intersection of **data platforms, analytics, and business impact**.
 
 I help organizations:
 
