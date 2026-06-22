@@ -1,4 +1,6 @@
-<img width="714" height="230" alt="image" src="https://github.com/user-attachments/assets/80e6a3cf-520a-4e1c-9330-4954a4d2fec2" />
+
+<img width="1376" height="768" alt="new_banner_linkedin" src="https://github.com/user-attachments/assets/9e8eaab7-7377-42ea-b520-90da462519c6" />
+
 
 # 👋 Hi, I'm Julian
 
