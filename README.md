@@ -15,10 +15,8 @@ My work focuses on **Data Quality**, **Cost Optimization** and **Performance Tun
 ---
 
 ## 🚀 Highlight Project
-### ❄️ Snowflake & dbt Core Hub
+## ❄️ Snowflake & dbt Core Hub
 **Core Focus:** Analytics Engineering | Cost Optimization (FinOps) | Performance Tuning | GitOps Governance
-
----
 
 ## Key Implemented Features
 
